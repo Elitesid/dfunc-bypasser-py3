@@ -2,7 +2,7 @@ Python3 version of the dfunc-bypasser tool at https://github.com/teambi0s/dfunc-
 
 # Usage:
 
-You can run the tool with python3 dfunc-bypasser-pyhton3
+You can run the tool like `python3 dfunc-bypasser-pyhton3`
 
 -h = for help with parameter
 
